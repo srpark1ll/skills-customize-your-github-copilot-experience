@@ -64,6 +64,20 @@
       "title": "FastAPI REST APIs",
       "description": "Build REST API endpoints and manage resources using FastAPI.",
       "path": "assignments/fastapi-rest-apis"
+    },
+    {
+      "id": "python-file-organizer",
+      "title": "Python File Organizer",
+      "description": "Organize files safely by type with pathlib, shutil, and a preview-first command-line workflow.",
+      "path": "assignments/python-file-organizer",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
