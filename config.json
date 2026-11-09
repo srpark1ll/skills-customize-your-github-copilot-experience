@@ -58,6 +58,12 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "FastAPI REST APIs",
+      "description": "Build REST API endpoints and manage resources using FastAPI.",
+      "path": "assignments/fastapi-rest-apis"
     }
   ]
 }
